@@ -25,8 +25,8 @@ The objective of this project was to determine the most profitable region for dr
 Region 1 was selected as the optimal location for new oil wells, balancing between profitability and risk. The choice was driven by its lowest risk profile and acceptable profit margins, demonstrating the importance of accurate prediction and risk management in resource-intensive industries.
 
 ## Media
-### Bootstrapping
-![image](https://github.com/jnorfolk/OilyGiant-Region-Selection/assets/117448822/f246b58d-0d4b-4d51-82d6-527c330d0e03)
+### Bootstrapping Results for Top Region
+![image](https://github.com/jnorfolk/Data-Projects-TripleTen/assets/117448822/0a2b6dea-f664-4fb1-a70f-11f87610af1f)
 
 ## Project Notebook
 [OilyGiant Project Notebook](https://github.com/jnorfolk/OilyGiant-Region-Selection/blob/main/OilyGiant.ipynb)
