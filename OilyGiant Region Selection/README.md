@@ -1,27 +1,42 @@
 # OilyGiant Well Location Optimization
 
 ## Project Description
-### Overview
-This project focuses on identifying the optimal locations for new oil wells for OilyGiant mining company, using data-driven techniques to maximize profit and minimize risks.
+### Project Overview
+The objective of this project was to determine the most profitable region for drilling 200 new oil wells from a choice of three regions. The selection criteria were based on maximizing profit margins, considering oil quality and volume, while keeping the risk of loss below 2.5%.
 
-### Features and Functionality
-- **Data Collection:** Analysis of oil well parameters (quality and volume of reserves) across three regions.
-- **Predictive Modeling:** Developed a linear regression model to predict reserve volumes in new wells.
-- **Optimization:** Selection of the most profitable oil wells and regions based on model predictions.
-- **Risk Analysis:** Employed Bootstrapping to assess potential profit and risks.
-- **Motivation:** To enhance the efficiency of resource allocation in oil mining, leading to increased profitability and informed decision-making.
-- **Technologies Used:** Data analysis and modeling were performed using Python, with libraries like Pandas, NumPy, and Scikit-learn.
+### Data Preprocessing and Model Training
+- **Data Verification:** Ensured the data's suitability for model training.
+- **Model Development:** Trained and validated linear regression models for each region, focusing on root mean squared error (RMSE) and R² score as evaluation metrics.
 
-## Visuals
+### Analysis and Decision Process
+- **Oil Profitability Calculation:** Determined the necessary oil volume for profitability and estimated potential yield from the top 200 wells.
+- **Profit Calculation:** Selected the largest 200 oil wells in each region and calculated the actual profits.
+- **Risk Assessment:** Applied bootstrapping to evaluate loss risks and establish confidence intervals.
+
+### Key Findings and Conclusions
+- **Region Performance:**
+  - **Region 1:** Exhibited the lowest risk of loss (1.2%) and the highest average profit (4.8 million USD). Best RMSE and R² scores, suggesting high model reliability, despite lower predicted reserve volume.
+  - **Region 2:** Had the largest predicted volume but the worst RMSE and R² scores.
+  - **Region 0:** Showed moderate predicted reserve volume and better RMSE and R² scores than Region 2.
+- **Profitability Analysis:** All regions potentially profitable with the top 200 sites, but actual availability of these sites poses a risk.
+- **Risk Management:** The high R² score for Region 1 indicates lower prediction risk, influencing the final decision despite preliminary profit considerations.
+
+### Conclusions and Business ImplicationsS
+Region 1 was selected as the optimal location for new oil wells, balancing between profitability and risk. The choice was driven by its lowest risk profile and acceptable profit margins, demonstrating the importance of accurate prediction and risk management in resource-intensive industries.
+
+## Media
+### Bootstrapping
 ![image](https://github.com/jnorfolk/OilyGiant-Region-Selection/assets/117448822/f246b58d-0d4b-4d51-82d6-527c330d0e03)
 
-
 ## Project Notebook
-[OilyGiant Project Notebook](https://github.com/jnorfolk/OilyGiant-Region-Selection/blob/main/OilyGiant.ipynb): Access the detailed Jupyter notebook for an in-depth look at the data analysis and modeling process.
+[OilyGiant Project Notebook](https://github.com/jnorfolk/OilyGiant-Region-Selection/blob/main/OilyGiant.ipynb)
+
+## Demo Video
+Pending
 
 ## Installation and Deployment
 ### System Requirements
-Python 3.x, Jupyter Notebook, and essential libraries (Pandas, NumPy, Scikit-learn).
+Python 3.9.16, Jupyter Notebook, and essential libraries (Pandas, NumPy, Scikit-learn).
 
 ### Installation Instructions
 #### 1. Install Python
@@ -46,15 +61,14 @@ Install Jupyter Notebook (if not installed):
 Launch it: 
 `jupyter notebook`
 Navigate to and open the OilyGiant.ipynb file in the notebook interface.
-5. Deactivate the Virtual Environment (After Use)
+
+#### 5. Deactivate the Virtual Environment (After Use)
 Run `deactivate` to exit the virtual environment.
 
-## Future Enhancements
-- Enhance the predictive model by exploring more complex algorithms while considering the project's constraints.
-- Implement more sophisticated risk assessment techniques to further minimize potential losses.
-
-## Additional Documentation
-Detailed explanation of each step in the notebook, including data preparation, model training, and validation.
+## Future Recommendations
+- **Enhanced Modeling:** Explore more advanced or ensemble machine learning models to refine predictions.
+- **Risk Optimization:** Develop strategies to further minimize risks in other promising regions.
+- **Data Expansion:** Consider additional data points or features that could improve prediction accuracy and profitability assessment.
 
 ## Credits and Acknowledgments
-Thanks to TripleTen for providing these three datasets.
+Thanks to TripleTen for providing these datasets. I am unable to publish these proprietary datasets to the internet.
