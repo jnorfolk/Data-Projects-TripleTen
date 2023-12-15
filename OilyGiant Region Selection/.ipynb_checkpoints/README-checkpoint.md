@@ -15,23 +15,24 @@ The objective of this project was to determine the most profitable region for dr
 
 ### Key Findings and Conclusions
 - **Region Performance:**
-  - **Region 1:** Exhibited the lowest risk of loss (1.2%) and the highest average profit (4.8 million USD). Best RMSE and R² scores, suggesting high model reliability, despite lower predicted reserve volume.
+  - **Region 1:** Exhibited the lowest risk of loss (0.4%) and the highest average profit (5.0 million USD). Best RMSE and R² scores, suggesting high model reliability, despite lower predicted reserve volume.
   - **Region 2:** Had the largest predicted volume but the worst RMSE and R² scores.
   - **Region 0:** Showed moderate predicted reserve volume and better RMSE and R² scores than Region 2.
 - **Profitability Analysis:** All regions potentially profitable with the top 200 sites, but actual availability of these sites poses a risk.
 - **Risk Management:** The high R² score for Region 1 indicates lower prediction risk, influencing the final decision despite preliminary profit considerations.
 
-### Conclusions
+### Conclusions and Business ImplicationsS
 Region 1 was selected as the optimal location for new oil wells, balancing between profitability and risk. The choice was driven by its lowest risk profile and acceptable profit margins, demonstrating the importance of accurate prediction and risk management in resource-intensive industries.
-
-
 
 ## Media
 ### Bootstrapping
 ![image](https://github.com/jnorfolk/OilyGiant-Region-Selection/assets/117448822/f246b58d-0d4b-4d51-82d6-527c330d0e03)
 
 ## Project Notebook
-[OilyGiant Project Notebook](https://github.com/jnorfolk/OilyGiant-Region-Selection/blob/main/OilyGiant.ipynb): Access the detailed Jupyter notebook for an in-depth look at the data analysis and modeling process.
+[OilyGiant Project Notebook](https://github.com/jnorfolk/OilyGiant-Region-Selection/blob/main/OilyGiant.ipynb)
+
+## Demo Video
+Pending
 
 ## Installation and Deployment
 ### System Requirements
