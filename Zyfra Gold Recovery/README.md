@@ -74,4 +74,4 @@ Type `deactivate`
 - **Process Optimization:** Use model insights to identify and address inefficiencies in the extraction process.
 
 ## Acknowledgments
-- This project was a part of a collaborative effort with my program TripleTen and Zyfra, providing real-world data and context for effective model development.
+- This project was a part of a collaborative effort with my program TripleTen and Zyfra, providing real-world data and context for effective model development; however, these proprietary datasets cannot be shared online.
