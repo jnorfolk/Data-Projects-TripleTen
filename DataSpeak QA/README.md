@@ -32,11 +32,4 @@ Developed a prototype Question-Answering chatbot for DataSpeak to enhance custom
 
 ## Acknowledgments
 - This project was part of the #TripleTen data science bootcamp/certificate program, serving as an externship.
-<<<<<<< HEAD
 - Special thanks to the C-level executives at DataSpeak and to my fellow students for their support and collaboration.
-=======
-- Special thanks to C-level staff at DataSpeak and my fellow students for their support and collaboration.
-
-## Presentation Slides
-[[https://github.com/jnorfolk/DataSpeak-QA/Dataspeak-QA-Project.pptx](https://github.com/jnorfolk/DataSpeak-QA/blob/main/Dataspeak%20QA%20Project.pptx)](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fjnorfolk%2FDataSpeak-QA%2Fmain%2FDataspeak%2520QA%2520Project.pptx&wdOrigin=BROWSELINK)https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fjnorfolk%2FDataSpeak-QA%2Fmain%2FDataspeak%2520QA%2520Project.pptx&wdOrigin=BROWSELINK
->>>>>>> a6e0636 (Revert 'update')
