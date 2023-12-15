@@ -26,6 +26,9 @@ Interconnect provides various telecom services, including landline communication
 ## Link to Project Notebook
 [Notebook](https://github.com/jnorfolk/Telecom-Churn/blob/main/Telecom-Churn-Final.ipynb)
 
+## Demo Video
+Pending
+
 ## Installation and Deployment
 ### System Requirements
 - Python 3.9.16
