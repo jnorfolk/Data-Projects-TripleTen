@@ -22,7 +22,7 @@ Developed a prototype Question-Answering chatbot for DataSpeak to enhance custom
 - **User-Friendly Interface:** Streamlit-based web application for easy interaction with the chatbot.
 
 ## Output Example
-![image](https://github.com/jnorfolk/DataSpeak-QA/assets/117448822/23cdef94-6679-4ba8-aa31-274bc9693c43)
+![image](https://github.com/jnorfolk/Data-Projects-TripleTen/assets/117448822/e74d0c9e-ac54-4197-b9ab-9799076b0e02)
 
 ## Installation and Deployment
 - Open `app_launcher.ipynb` in the Google Collab interface.
