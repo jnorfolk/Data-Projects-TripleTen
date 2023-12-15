@@ -21,7 +21,7 @@ The objective of this project was to determine the most profitable region for dr
 - **Profitability Analysis:** All regions potentially profitable with the top 200 sites, but actual availability of these sites poses a risk.
 - **Risk Management:** The high R² score for Region 1 indicates lower prediction risk, influencing the final decision despite preliminary profit considerations.
 
-### Conclusions and Business ImplicationsS
+### Conclusions and Business Implications
 Region 1 was selected as the optimal location for new oil wells, balancing between profitability and risk. The choice was driven by its lowest risk profile and acceptable profit margins, demonstrating the importance of accurate prediction and risk management in resource-intensive industries.
 
 ## Media
