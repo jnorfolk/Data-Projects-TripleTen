@@ -25,7 +25,7 @@ The objective of this project was to determine the most profitable region for dr
 Region 1 was selected as the optimal location for new oil wells, balancing between profitability and risk. The choice was driven by its lowest risk profile and acceptable profit margins, demonstrating the importance of accurate prediction and risk management in resource-intensive industries.
 
 ## Media
-### Bootstrapping
+### Bootstrapping Results for Top Region
 ![bootstrapping_result](https://github.com/jnorfolk/Data-Projects-TripleTen/assets/117448822/776d2193-3b06-4ea4-a72f-84f1d27d7ab0)
 
 ## Project Notebook
