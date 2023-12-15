@@ -26,7 +26,7 @@ Region 1 was selected as the optimal location for new oil wells, balancing betwe
 
 ## Media
 ### Bootstrapping
-![image](https://github.com/jnorfolk/OilyGiant-Region-Selection/assets/117448822/f246b58d-0d4b-4d51-82d6-527c330d0e03)
+![bootstrapping_result](https://github.com/jnorfolk/Data-Projects-TripleTen/assets/117448822/776d2193-3b06-4ea4-a72f-84f1d27d7ab0)
 
 ## Project Notebook
 [OilyGiant Project Notebook](https://github.com/jnorfolk/OilyGiant-Region-Selection/blob/main/OilyGiant.ipynb)
