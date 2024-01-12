@@ -29,7 +29,7 @@ The data, provided by Practicum, includes detailed information on video game sal
 ![Correlation between scores and sales for Xbox One](https://github.com/jnorfolk/Data-Projects-TripleTen/assets/117448822/b482e68c-e226-4df8-8eb8-bddb5ff2c429)
 
 ### Global sales per genre
-![Global sales per genre](https://github.com/jnorfolk/Data-Projects-TripleTen/assets/117448822/49d2ca6d-70b7-459b-a3ba-15f71834fff6)
+!([https://github.com/jnorfolk/Data-Projects-TripleTen/assets/117448822/49d2ca6d-70b7-459b-a3ba-15f71834fff6](https://github.com/jnorfolk/Data-Projects-TripleTen/blob/main/Ice%20Video%20Game%20Sales/images/sales-per-genre.png))
 
 ## Link to Project Notebook
 ([https://github.com/YourUsername/YourRepository/blob/main/Video-Game-Sales-Analysis.ipynb](https://github.com/jnorfolk/Data-Projects-TripleTen/blob/main/Ice%20Video%20Game%20Sales/video_game_sales.ipynb))
