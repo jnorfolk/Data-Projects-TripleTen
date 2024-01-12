@@ -6,7 +6,7 @@ A collection of my top projects with TripleTen.
 ### DataSpeak Question-Answering Chatbot
 ![DataSpeak QA Project](https://github.com/jnorfolk/Data-Projects-TripleTen/tree/main/DataSpeak%20QA)
 
-### Telecom Customer Churn Analysis
+### Telecom Customer Churn Prediction
 ![Telecom Project](https://github.com/jnorfolk/Data-Projects-TripleTen/tree/main/Telecom%20Customer%20Churn)
 
 ### Ice Video Games Sales Analysis
