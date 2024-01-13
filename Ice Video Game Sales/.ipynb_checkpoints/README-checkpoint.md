@@ -25,11 +25,14 @@ The data, provided by Practicum, includes detailed information on video game sal
 - The PC platform, due to its longevity, remains a significant area of focus despite lower recent sales.
 
 ## Media
-### Data Visualizations
-![Global Sales by Genre](https://github.com/YourUsername/YourRepository/assets/visualization_genre_sales.png)
+### Correlation between scores and sales for Xbox One
+![Correlation between scores and sales for Xbox One](https://github.com/jnorfolk/Data-Projects-TripleTen/blob/main/Ice%20Video%20Game%20Sales/images/score-sales-correlation.png)
+
+### Global sales per genre
+![Global sales per genre](https://github.com/jnorfolk/Data-Projects-TripleTen/blob/main/Ice%20Video%20Game%20Sales/images/sales-per-genre.png)
 
 ## Link to Project Notebook
-[Notebook](https://github.com/YourUsername/YourRepository/blob/main/Video-Game-Sales-Analysis.ipynb)
+[Link to Notebook](https://github.com/jnorfolk/Data-Projects-TripleTen/blob/main/Ice%20Video%20Game%20Sales/video_game_sales.ipynb)
 
 ## Demo Video
 Pending
