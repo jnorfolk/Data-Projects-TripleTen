@@ -9,7 +9,6 @@ A collection of my top projects with TripleTen.
 ### Telecom Customer Churn Prediction
 ![Telecom Project](https://github.com/jnorfolk/Data-Projects-TripleTen/tree/main/Telecom%20Customer%20Churn)
 
-
 ### Ice Video Games Sales Analysis
 ![Video Game Project](https://github.com/jnorfolk/Data-Projects-TripleTen/tree/main/Ice%20Video%20Game%20Sales)
 
